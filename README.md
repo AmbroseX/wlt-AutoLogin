@@ -4,3 +4,11 @@
 
 - wlt.py脚本支持Linux和Windows系统
 - .sh脚本配合wlt.py使用，仅支持Linux系统
+
+# 使用方法
+```shell
+python wlt.py
+```
+
+然后输入选择开通的出口，一般1出口，教育网出口工作学习好点
+然后输入用户名，密码
